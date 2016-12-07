@@ -16,14 +16,17 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Gabe Schamberg
+  url:               http://gabeschamberg.github.io
+  email:             gabeschamberg@gmail.com
 
 # Custom vars
 version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+github:              gabeschamberg
+
+pages_list:
+  About: '/about'
+  Blog: '/blog'
 
 # Gems
 gems:
