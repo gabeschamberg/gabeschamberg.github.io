@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Gabe Schamberg
+tagline:
+url:                 http://gabeschamberg.github.io
 paginate:            1
 baseurl:             ""
 
