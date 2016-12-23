@@ -3,8 +3,6 @@ layout: page
 title: CV
 ---
 
------
-
 ### Education
 
 Ph.D. ECE, UC San Diego, *2016-Present* \\
