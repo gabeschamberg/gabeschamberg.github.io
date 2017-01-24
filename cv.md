@@ -53,4 +53,4 @@ C
 
 ### Publications
 
-*Gabriel Schamberg, Demba Ba, Mark Wagner, and Todd Coleman. Efficient low-rank spectrotemporal decomposition using admm. In Statistical Signal Processing, 2016. SSP’16. IEEE/SP 19th Workshop on. IEEE, 2016*
+[*Efficient Low-Rank Spectrotemporal Decomposition using ADMM. In IEEE Statistical Signal Processing, 2016.*](http://ieeexplore.ieee.org/document/7551797/)
