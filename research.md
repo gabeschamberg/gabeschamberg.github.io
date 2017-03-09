@@ -9,12 +9,10 @@ title: Research
 
 We consider the questions:
 
-1. Do observed time series $$ \{X_t\}_{t=1,2,\dots} $$ and $$\{Y_t\}_{t=1,2,\dots}$$ have a causal influence on one another?
+1. Do two observed time series have a causal influence on one another?
 2. How do these influences change over time?
 
-To answer these questions, we seek to create measures of causality $$C_{X\rightarrow Y}(t)$$ and $$C_{Y\rightarrow X}(t)$$ that are indexed by time.
-
-Using a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, at every time $$t$$, $$C_{X\rightarrow Y}(t)$$ is meant to represent how much better we can predict $$Y$$ given its past *and* the past of $$X$$ than if we were given the past of $$Y$$ alone. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf) and [directed information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.5688&rep=rep1&type=pdf).
+Using a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, at every time *t*, the causal influence from *X* to *Y* is meant to represent how much better we can predict *Y* given its past *and* the past of *X* than if we were given the past of *Y* alone. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf) and [directed information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.5688&rep=rep1&type=pdf).
 
 -----
 
