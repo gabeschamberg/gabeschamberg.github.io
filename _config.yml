@@ -26,6 +26,7 @@ version:             2.0.0
 github:              gabeschamberg
 
 pages_list:
+  Research: '/research'
   CV: '/cv'
   Blog: '/blog'
 
