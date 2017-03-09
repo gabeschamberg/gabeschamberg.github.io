@@ -9,7 +9,7 @@ title: Research
 
 We consider the questions:
 
-1. Do observed time series $$\{X_t\}_{t=1,2,\dots}$$ and $$\{Y_t\}_{t=1,2,\dots}$$ have a causal influence on one another?
+1. Do observed time series $$ \{X_t\}_{t=1,2,\dots} $$ and $$\{Y_t\}_{t=1,2,\dots}$$ have a causal influence on one another?
 2. How do these influences change over time?
 
 To answer these questions, we seek to create measures of causality $$C_{X\rightarrow Y}(t)$$ and $$C_{Y\rightarrow X}(t)$$ that are indexed by time.
