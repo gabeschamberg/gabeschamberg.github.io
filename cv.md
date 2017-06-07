@@ -20,6 +20,7 @@ San Diego Supercomputer Center, *2012*
 
 ### Work Experience
 
+Analytics Research Intern - CoreLogic, *2017*
 Lecturer - UC San Diego, *2015-2016* \\
 Software Developer (Contractor) - Ziva Corporation, *2014* \\
 Software Developer - NKI Engineering, *2012-2014* \\
@@ -38,6 +39,13 @@ President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
 NSF Graduate Research Fellowship Program, Honorable Mention, *2016* \\
 Jacobs Fellow, *2014-2017*
+
+-----
+
+### Involvement
+
+Reviewer - Knowledge Based Systems, *2017* \\
+Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 
 -----
 
