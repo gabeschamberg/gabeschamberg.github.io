@@ -14,7 +14,7 @@ B.S. CSE, UC San Diego, *2008-2012*
 ### Publications
 
 **G. Schamberg**, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation”, *Submitted*, June 2017.
+Non-Markov Time Series Estimation”, *Submitted*, June 2017. [[arXiv]](https://arxiv.org/abs/1706.04685)
 
 **G. Schamberg**, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016. [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
