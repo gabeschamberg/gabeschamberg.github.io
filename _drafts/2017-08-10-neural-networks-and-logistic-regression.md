@@ -15,8 +15,7 @@ What's the point? Neural networks are complicated, and this post is certainly no
 
 Let's start by getting an intuitive understanding of logistic regression.
 
-{% include image name="logreg1.png" %}
-
+![logreg1.png](http://localhost:4000/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg1.png)
 
 
 

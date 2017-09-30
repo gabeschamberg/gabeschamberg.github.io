@@ -34,4 +34,4 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-markdown: redcarpet
+markdown: kramdown
