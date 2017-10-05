@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/grabe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gabeschamberg.github.io
+  * I am grabe (https://keybase.io/grabe) on keybase.
+  * I have a public key ASAFnnwdpNKjP3iCR3jDA-8xPNCEEKDzIyRbh4p8y4jozQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a22934723ef2cb9ecb9c20cbabc774e2321aab85db652a0aef1d52cbbbae25780a",
+      "host": "keybase.io",
+      "kid": "0120059e7c1da4d2a33f78824778c303ef313cd08410a0f323245b878a7ccb88e8cd0a",
+      "uid": "ed97c5e587360099171fd13a00fcb419",
+      "username": "grabe"
+    },
+    "merkle_root": {
+      "ctime": 1507216438,
+      "hash": "2e596b635ae792f6683f1d1449f27e98322cea8fe0d114db56ab936eefbf7740cd3d43278a86d96914027ff32f275c22090a7afc81dfe3fbc44166968e2257ac",
+      "hash_meta": "a7394de06ef26139f2186dbba749a36812708023105a0d8f528dd67560772dfb",
+      "seqno": 1514522
+    },
+    "service": {
+      "hostname": "gabeschamberg.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507216449,
+  "expire_in": 504576000,
+  "prev": "e0d407b413a23bd7401e2b605938f39136aaa5ed9db627e34ba8057ca47647a9",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBZ58HaTSoz94gkd4wwPvMTzQhBCg8yMkW4eKfMuI6M0Kp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTIyOTM0NzIzZWYyY2I5ZWNiOWMyMGNiYWJjNzc0ZTIzMjFhYWI4NWRiNjUyYTBhZWYxZDUyY2JiYmFlMjU3ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDU5ZTdjMWRhNGQyYTMzZjc4ODI0Nzc4YzMwM2VmMzEzY2QwODQxMGEwZjMyMzI0NWI4NzhhN2NjYjg4ZThjZDBhIiwidWlkIjoiZWQ5N2M1ZTU4NzM2MDA5OTE3MWZkMTNhMDBmY2I0MTkiLCJ1c2VybmFtZSI6ImdyYWJlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MjE2NDM4LCJoYXNoIjoiMmU1OTZiNjM1YWU3OTJmNjY4M2YxZDE0NDlmMjdlOTgzMjJjZWE4ZmUwZDExNGRiNTZhYjkzNmVlZmJmNzc0MGNkM2Q0MzI3OGE4NmQ5NjkxNDAyN2ZmMzJmMjc1YzIyMDkwYTdhZmM4MWRmZTNmYmM0NDE2Njk2OGUyMjU3YWMiLCJoYXNoX21ldGEiOiJhNzM5NGRlMDZlZjI2MTM5ZjIxODZkYmJhNzQ5YTM2ODEyNzA4MDIzMTA1YTBkOGY1MjhkZDY3NTYwNzcyZGZiIiwic2Vxbm8iOjE1MTQ1MjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2FiZXNjaGFtYmVyZy5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzIxNjQ0OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJlMGQ0MDdiNDEzYTIzYmQ3NDAxZTJiNjA1OTM4ZjM5MTM2YWFhNWVkOWRiNjI3ZTM0YmE4MDU3Y2E0NzY0N2E5Iiwic2Vxbm8iOjMwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQN8H1NeKNhbNtUJ4GbCZsaSx7K5X2ZODnL8LVodrH747dJpTpAvrUKSAJOj3USXXKisPDBJhgUcn+1X63v8MLgSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAu0afAnp1jQpZKYDH0OV7gRp6Kxxo8+iobh6t2+65dD6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grabe
+
+==================================================================

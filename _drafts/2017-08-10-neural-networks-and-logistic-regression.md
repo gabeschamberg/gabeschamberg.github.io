@@ -9,13 +9,17 @@ If you are reading this post, you have likely heard neural networks referred to 
 
 While both of these posts aid in illuminating the inner workings of neural networks, they are concerned with wholly different questions. While the first post contains visualizations of small scale neural nets learning to classify low-dimensional datasets, the second post attempts to identify how a deep neural network makes sense of the massive language datasets. It seems to me that this gap is largely responsible for the feeling that neural networks are black boxes -- on the one hand we can begin to understand how neural networks learn through small examples, but for the applications that are really of interest, we are left trying to identify aspects of the trained networks that are interpretable without truly understanding the function of every aspect of the model.
 
-What's the point? Neural networks are complicated, and this post is certainly not going to do much (if anything) to demystify the "black box", but hopefully it can help you to chip away at the problem from the "understanding how neural networks learn through small examples" end of spectrum. In fact, I will be moving all the way to the very edge of the spectrum, as my goal here is to relate neural networks to perhaps the simplest tool for binary classification problems, *logistic regression*. As shown by this [Google search](http://www.google.com/search?q=neural+network+logistic+regression), the observation of a connection between logistic regression and neural networks is not a novel one. Nevertheless, I find it a useful observation for stepping through basic examples and trying to learn what exactly is going on. Let's get started.
+What's the point? Neural networks are complicated, and this post is certainly not going to do much (if anything) to demystify the "black box", but hopefully it can help you to chip away at the problem from the "understanding how neural networks learn through small examples" end of spectrum. In fact, I will be moving all the way to the very edge of the spectrum, as my goal here is to relate neural networks to perhaps the simplest tool for binary classification problems, *logistic regression*. As shown by this [Google search](http://www.google.com/search?q=neural+network+logistic+regression), the observation of a connection between logistic regression and neural networks is not a novel one. Nevertheless, I find it a useful observation for stepping through basic examples and trying to learn what exactly is going on.
+
+I will include some code snippets throughout the post to illustrate key points, but because this is not a coding lesson, most of the code generated will be omitted. If you'd like to see how all the figures were generated and play around with the code, you can download this [iPython notebook]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/neural_nets_logistic_regression.ipynb). Now, let's get started!
 
 ### Logistic Regression
 
-Let's start by getting an intuitive understanding of logistic regression.
+Let's start by getting an intuitive understanding of logistic regression. Suppose we have two classes of data existing in 2-dimensional space. The orange class is a cluster centered at the point $$ (X_1,X_2) = (0,0)$$, and the blue class is a cluster centered at $$(X_1,X_2) = (5,5)$$. Now suppose we have $$500$$ points from each class, and using these points, want to learn how to tell whether a new point belongs to the orange or blue class.
 
-![logreg1.png](http://localhost:4000/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg1.png)
+![logreg1.png]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg1.png)
+
+It is pretty clear here that the pink point belongs to the blue class. How can we formalize this seemingly obvious observation?
 
 
 
@@ -25,8 +29,6 @@ Let's start by getting an intuitive understanding of logistic regression.
 ### Parting Thoughts
 
 While there are some [amazing](http://http://playground.tensorflow.org/) [resources](http://cs.stanford.edu/people/karpathy/convnetjs/) for experimenting with neural networks, I often find myself fiddling with parameters and convincing myself I get how it works when that is not actually the case. I
-
-\\(x^2\\)
 
 ```python
 def function():
