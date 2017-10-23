@@ -15,14 +15,20 @@ I will include some code snippets throughout the post to illustrate key points, 
 
 ### Logistic Regression
 
-Let's start by getting an intuitive understanding of logistic regression. Suppose we have two classes of data existing in 2-dimensional space. The orange class is a cluster centered at the point $$ (X_1,X_2) = (0,0)$$, and the blue class is a cluster centered at $$(X_1,X_2) = (5,5)$$. Now suppose we have $$500$$ points from each class, and using these points, want to learn how to tell whether a new point belongs to the orange or blue class.
+We'll begin by developing an intuitive understanding of logistic regression. Suppose we have two classes of data existing in 2-dimensional space. The orange class is a cluster centered at the point $$(X_1,X_2) = (0,0)$$, and the blue class is a cluster centered at $$(X_1,X_2) = (5,5)$$. Now suppose we have $$500$$ points from each class, and using these points, want to learn how to tell whether a new point belongs to the orange or blue class.
 
 ![logreg1.png]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg1.png)
 
-It is pretty clear here that the pink point belongs to the blue class. How can we formalize this seemingly obvious observation?
+It is pretty clear in the above picture that the pink point belongs to the blue class, but how can we formalize that thought mathematically? As a first step, note that we can draw a straight line between the blue and orange clusters. Then, when we get a new point, we can determine which side of the line that point falls on. Here we will simply hand pick the line that is halfway between the cluster centers. To find out where each point is relative to that line, we need to project each point onto a line that is orthogonal to the separating line.
 
 
+![logreg2.png]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg2.png)
 
+***Project onto line***
+
+![logreg3.png]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg3.png)
+
+![logreg4.png]({{ site.url }}/assets/posts/2017-08-10-neural-networks-and-logistic-regression/logreg4.png)
 
 
 
