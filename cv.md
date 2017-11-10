@@ -22,18 +22,18 @@ Non-Markov Time Series Estimation”, *Submitted*, June 2017. [[arXiv]](https://
 
 ### Research Positions
 
-[[Neural Interaction Lab]](http://coleman.ucsd.edu/), *2014-Present* \\
-[[San Diego Supercomputer Center]](http://www.sdsc.edu/), *2012*
+[Neural Interaction Lab](http://coleman.ucsd.edu/), *2014-Present* \\
+[San Diego Supercomputer Center](http://www.sdsc.edu/), *2012*
 
 -----
 
 ### Work Experience
 
-Analytics Research Intern - [[CoreLogic]](http://www.corelogic.com/products/loansafe-fraud-manager.aspx), *2017* \\
+Analytics Research Intern - [CoreLogic](http://www.corelogic.com/products/loansafe-fraud-manager.aspx), *2017* \\
 Lecturer - UC San Diego, *2015-2016* \\
-Software Developer (Contractor) - [[Ziva Corporation]](http://www.ziva-corp.com/), *2014* \\
-Software Developer - [[NKI Engineering]](http://nkiconsulting.com/), *2012-2014* \\
-Software Developer (Part-time) - [[Teradata]](http://www.teradata.com/), *2011*
+Software Developer (Contractor) - [Ziva Corporation](http://www.ziva-corp.com/), *2014* \\
+Software Developer - [NKI Engineering](http://nkiconsulting.com/), *2012-2014* \\
+Software Developer (Part-time) - [Teradata](http://www.teradata.com/), *2011*
 
 -----
 
