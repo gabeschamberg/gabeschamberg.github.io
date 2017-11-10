@@ -59,10 +59,12 @@ Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 
 -----
 
-### Technical Experience (From most to least)
+### Technical Experience
 
 Python \\
 Matlab \\
 Arduino \\
+R \\
 Java \\
+C++ \\
 C
