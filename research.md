@@ -5,7 +5,7 @@ title: Research
 
 ### Time-Varying Causal Inference
 
-![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality.png)
+![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality2.png)
 
 We consider the questions:
 
