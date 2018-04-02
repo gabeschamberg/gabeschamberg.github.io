@@ -14,6 +14,9 @@ We consider the questions:
 
 Using a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, at every time $$t$$, the causal influence from $$X$$ to $$ Y $$ is meant to represent how much better we can predict $$ Y $$ given its past *and* the past of $$ X $$ than if we were given the past of $$Y$$ alone. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf) and [directed information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.5688&rep=rep1&type=pdf).
 
+* Relevant Publications:*
+- **G. Schamberg** and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT), June 2018, To Appear.
+
 -----
 
 ### Non-Linear / Non-Markov Latent Time-Series Estimation
