@@ -7,12 +7,9 @@ title: Research
 
 ![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality2.png)
 
-We consider the questions:
+How can we tell when one time series is having a *causal* effect on another time series? How can we assess the changes that occur in this causal relationship over time?
 
-1. Do two observed time series have a causal influence on one another?
-2. How do these influences change over time?
-
-Using a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, at every time $$t$$, the causal influence from $$X$$ to $$ Y $$ is meant to represent how much better we can predict $$ Y $$ given its past *and* the past of $$ X $$ than if we were given the past of $$Y$$ alone. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf) and [directed information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.5688&rep=rep1&type=pdf).
+We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, where at every time $$t$$, the causal influence from $$X$$ to $$ Y $$ is represents how much better we can predict $$ Y $$ given its past *and* the past of $$ X $$ than if we were given the past of $$Y$$ alone. We note that this relationship may change depending on the *actual values* that these time series take on. As such, we are researching a novel measure of causality that takes on different values for different process realizations, even in stationary processes. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf).
 
 *Relevant Publications:*
 - **G. Schamberg** and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018, To Appear.
