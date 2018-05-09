@@ -26,7 +26,11 @@ We consider the class of problems where the underlying signal is non-Markov and/
 
 *Relevant Publications:*
 - “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, In Press. [[arXiv]](https://arxiv.org/abs/1706.04685) [[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
-- “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016. [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
+Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
+[[arXiv]](https://arxiv.org/abs/1706.04685)
+[[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
+- “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016.
+[[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
 -----

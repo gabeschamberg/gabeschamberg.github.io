@@ -16,7 +16,10 @@ B.S. CSE, UC San Diego, *2008-2012*
 G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018, To Appear.
 
 G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, In Press. [[arXiv]](https://arxiv.org/abs/1706.04685) [[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
+Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
+[[arXiv]](https://arxiv.org/abs/1706.04685)
+[[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
 
 G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016. [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
