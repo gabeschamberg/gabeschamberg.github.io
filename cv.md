@@ -14,6 +14,7 @@ B.S. CSE, UC San Diego, *2008-2012*
 ### Publications
 
 G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018, To Appear.
+[[arXiv]](https://arxiv.org/abs/1805.03333)
 
 G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
 Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.

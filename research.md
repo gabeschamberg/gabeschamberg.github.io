@@ -13,6 +13,7 @@ We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causa
 
 *Relevant Publications:*
 - "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018, To Appear.
+[[arXiv]](https://arxiv.org/abs/1805.03333)
 
 -----
 
