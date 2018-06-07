@@ -5,7 +5,7 @@ title: Research
 
 ### Time-Varying Causal Inference
 
-![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality3.png)
+![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality4.png)
 
 How can we tell when one time series is having a *causal* effect on another time series? How can we assess the changes that occur in this causal relationship over time?
 
