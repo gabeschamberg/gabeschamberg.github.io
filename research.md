@@ -3,13 +3,13 @@ layout: page
 title: Research
 ---
 
-### Time-Varying Causal Inference
+### Measuring Context Dependent Causal Influences
 
 ![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality5.png)
 
-How can we tell when one time series is having a *causal* effect on another time series? How can we assess the changes that occur in this causal relationship over time?
+How can we tell when one time series is having a *causal* effect on another time series?
 
-We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) viewpoint, where at every time $$t$$, the causal influence from $$X$$ to $$ Y $$ is represents how much better we can predict $$ Y $$ given its past *and* the past of $$ X $$ than if we were given the past of $$Y$$ alone. We note that this relationship may change depending on the *actual values* that these time series take on, as opposed to being solely dependent on the model, as with [directed information](https://arxiv.org/pdf/1201.2334.pdf) and [transfer entropy](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.461). As such, we are researching a novel measure of causality that takes on different values for different process realizations, even in stationary processes. To actually acquire these measures, we leverage tools in [sequential prediction](https://www.eng.tau.ac.il/~meir/articles/32%20Universal%20Prediction.pdf).
+We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) philosophy, where $$X$$ is said to cause $$Y$$ if we can better predict $$Y$$ using all available information than we can using all information excluding $$X$$. Both Granger causality and information theoretic extensions such as directed information provide average measures of causal influence that depend solely on the underlying probabilistic model of the variables in question. We ask the question: *Does the causal influence between random variables change for different realizations of those variable? If so, what is the right way to measure those changes?*
 
 *Relevant Publications:*
 - "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018, To Appear.

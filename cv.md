@@ -35,8 +35,9 @@ G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectro
 
 ### Work Experience
 
+Lecturer ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)) - UC San Diego, *2018* \\
 Analytics Research Intern - [CoreLogic](http://www.corelogic.com/products/loansafe-fraud-manager.aspx), *2017* \\
-Lecturer - UC San Diego, *2015-2016* \\
+Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016* \\
 Software Developer (Contractor) - [Ziva Corporation](http://www.ziva-corp.com/), *2014* \\
 Software Developer - [NKI Engineering](http://nkiconsulting.com/), *2012-2014* \\
 Software Developer (Part-time) - [Teradata](http://www.teradata.com/), *2011*
