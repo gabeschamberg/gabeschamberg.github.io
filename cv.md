@@ -52,8 +52,9 @@ President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
 -----
 
-### Honors
+### Grants and Awards
 
+Kavli Institute for Brain & Mind Innovative Research Grant Award Recipient, *2018* \\
 NSF Graduate Research Fellowship Program, Honorable Mention, *2016* \\
 Jacobs Fellow, *2014-2017*
 
