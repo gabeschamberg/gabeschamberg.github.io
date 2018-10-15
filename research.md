@@ -12,6 +12,8 @@ How can we tell when one time series is having a *causal* effect on another time
 We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) philosophy, where $$X$$ is said to cause $$Y$$ if we can better predict $$Y$$ using all available information than we can using all information excluding $$X$$. Both Granger causality and information theoretic extensions such as directed information provide average measures of causal influence that depend solely on the underlying probabilistic model of the variables in question. We ask the question: *Does the causal influence between random variables change for different realizations of those variable? If so, what is the right way to measure those changes?*
 
 *Relevant Publications:*
+- "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
+[[arXiv]](https://arxiv.org/abs/1810.05250)
 - "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)

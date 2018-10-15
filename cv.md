@@ -13,6 +13,9 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
+G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
+[[arXiv]](https://arxiv.org/abs/1810.05250)
+
 G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)
