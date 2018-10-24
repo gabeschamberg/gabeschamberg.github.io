@@ -27,7 +27,7 @@ github:              gabeschamberg
 pages_list:
   Research: '/research'
   CV: '/cv'
-  Blog: '/blog'
+  #Blog: '/blog'
 
 # Gems
 gems:
