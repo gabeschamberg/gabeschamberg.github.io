@@ -13,6 +13,8 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
+G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning (To Appear)*, December 2018.
+
 G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
 
@@ -29,6 +31,17 @@ Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, 
 G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016.
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
+<!---
+-----
+
+### Posters and Presentations
+
+"Quantifying Context-Dependent Causal Influences", *NIPS Workshop on Causal Learning*, December 2018. (Poster).
+
+"A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018. (Talk)
+
+"Efficient Low-Rank Spectrotemporal Decomposition using ADMM", *IEEE Statistical Signal Processing Workshop*, June 2016. (Poster)
+-->
 -----
 
 ### Research Positions
