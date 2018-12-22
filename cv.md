@@ -13,7 +13,7 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
-G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning (To Appear)*, December 2018.
+G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning*, December 2018.
 
 G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
