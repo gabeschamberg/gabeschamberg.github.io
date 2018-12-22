@@ -3,15 +3,15 @@ layout: page
 title: Research
 ---
 
-### Measuring Context Dependent Causal Influences
+### Context-Dependent Causal Influence
 
 ![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality5.png)
 
-How can we tell when one time series is having a *causal* effect on another time series?
+The problem of quantifying the causal influences between random entities is a non-trivial problem, even when there is a known causal graph and joint distribution over all variables. This work seeks to build an information theoretic framework for quantifying the extent to which one random variable (or process) influences another. The key feature of this framework is that the produced causal influences are *context-dependent*, meaning that the level of influence depends upon the *value* of a cause. As an example, consider the lottery -- while we would almost certainly believe that winning the lottery has a great causal influence on spending habits, the fact that the probability of winning the lottery is virtually zero means that the lottery has essentially no effect on spending habits *on average*. Thus, it is important to make causal influences dependent upon context.
 
-We adopt a [Granger causality](http://www.scholarpedia.org/article/Granger_causality) philosophy, where $$X$$ is said to cause $$Y$$ if we can better predict $$Y$$ using all available information than we can using all information excluding $$X$$. Both Granger causality and information theoretic extensions such as directed information provide average measures of causal influence that depend solely on the underlying probabilistic model of the variables in question. We ask the question: *Does the causal influence between random variables change for different realizations of those variable? If so, what is the right way to measure those changes?*
 
 *Relevant Publications:*
+- "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop on Causal Learning*, December 2018.
 - "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
 - "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
