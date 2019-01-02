@@ -7,8 +7,7 @@ title: Research
 
 ![Time-Varying Causality](https://raw.githubusercontent.com/gabeschamberg/gabeschamberg.github.io/master/imgs/causality5.png)
 
-The problem of quantifying the causal influences between random entities is a non-trivial problem, even when there is a known causal graph and joint distribution over all variables. This work seeks to build an information theoretic framework for quantifying the extent to which one random variable (or process) influences another. The key feature of this framework is that the produced causal influences are *context-dependent*, meaning that the level of influence depends upon the *value* of a cause. As an example, consider the lottery -- while we would almost certainly believe that winning the lottery has a great causal influence on spending habits, the fact that the probability of winning the lottery is virtually zero means that the lottery has essentially no effect on spending habits *on average*. Thus, it is important to make causal influences dependent upon context.
-
+The problem of quantifying the causal influences between random entities is a non-trivial problem, even when there is a known causal graph and joint distribution over all variables. This work seeks to build an information theoretic framework for quantifying the extent to which one random variable (or process) influences another. The key feature of this framework is that the produced causal influences are *context-dependent*, meaning that the level of influence depends upon the *value* of a cause.
 
 *Relevant Publications:*
 - "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop on Causal Learning*, December 2018.
