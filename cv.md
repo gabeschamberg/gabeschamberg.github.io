@@ -13,10 +13,15 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
-G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home)
+G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators", *Under Review*.
+[[arXiv]](https://arxiv.org/abs/1902.00580)
 
-G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
+G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Under Review*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
+
+A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording”, *Under Review*.
+
+G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home)
 
 G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
@@ -35,12 +40,15 @@ G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectro
 -----
 
 ### Posters and Presentations
+"TBD", *Information Theory and Applications (ITA)*, January 2019 (Talk).
 
-"Quantifying Context-Dependent Causal Influences", *NIPS Workshop on Causal Learning*, December 2018. (Poster).
+"On the Bias of Directed Information Estimators", *Information Theory and Applications (ITA)*, January 2019 (Poster).
 
-"A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018. (Talk)
+"Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop on Causal Learning*, December 2018 (Poster).
 
-"Efficient Low-Rank Spectrotemporal Decomposition using ADMM", *IEEE Statistical Signal Processing Workshop*, June 2016. (Poster)
+"A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018 (Talk).
+
+"Efficient Low-Rank Spectrotemporal Decomposition using ADMM", *IEEE Statistical Signal Processing Workshop*, June 2016 (Poster).
 -->
 -----
 
