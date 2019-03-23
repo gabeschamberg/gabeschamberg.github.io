@@ -37,19 +37,25 @@ G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectro
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
 <!---
+
 -----
 
-### Posters and Presentations
-"TBD", *Information Theory and Applications (ITA)*, January 2019 (Talk).
+### Presentations
+NSRL, MIT, *2019* \\
+ISS, Harvard, *2019* \\
+Information Theory and Applications (ITA) Workshop, *2019* \\
+IEEE International Symposium on Information Theory (ISIT), *2018* \\
+CRISP Lab, Harvard, *2017*
 
-"On the Bias of Directed Information Estimators", *Information Theory and Applications (ITA)*, January 2019 (Poster).
+-----
 
-"Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop on Causal Learning*, December 2018 (Poster).
+### Posters
+Information Theory and Applications (ITA) Workshop, *2019* \\
+NeurIPS Workshop on Causal Learning, *2018* \\
+IEEE Statistical Signal Processing Workshop, *2016*
 
-"A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018 (Talk).
-
-"Efficient Low-Rank Spectrotemporal Decomposition using ADMM", *IEEE Statistical Signal Processing Workshop*, June 2016 (Poster).
 -->
+
 -----
 
 ### Research Positions
@@ -72,7 +78,7 @@ Software Developer (Part-time) - [Teradata](http://www.teradata.com/), *2011*
 
 ### Leadership Development and Experience
 
-Mentor - Jacobs Undergraduate Mentoring Program (JUMP), 2017-2018 \\
+Mentor - Jacobs Undergraduate Mentoring Program (JUMP), *2017-2018* \\
 Gordon Scholar - Gordon Center for Engineering Leadership, *2008-Present* \\
 President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
