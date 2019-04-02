@@ -11,7 +11,7 @@ The problem of quantifying the causal influences between random entities is a no
 
 *Relevant Publications:*
 - "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop on Causal Learning*, December 2018.
-- "Measuring Sample Path Causal Influences with Relative Entropy", *Under Review*.
+- "Measuring Sample Path Causal Influences with Relative Entropy," *Under Review*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
 - "A Sample Path Measure of Causal Influence," *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
