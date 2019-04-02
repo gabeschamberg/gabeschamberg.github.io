@@ -10,10 +10,10 @@ title: Research
 The problem of quantifying the causal influences between random entities is a non-trivial problem, even when there is a known causal graph and joint distribution over all variables. This work seeks to build an information theoretic framework for quantifying the extent to which one random variable (or process) influences another. The key feature of this framework is that the produced causal influences are *context-dependent*, meaning that the level of influence depends upon the *value* of a cause.
 
 *Relevant Publications:*
-- "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop on Causal Learning*, December 2018.
-- "Measuring Sample Path Causal Influences with Relative Entropy", *Submitted*.
+- "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop on Causal Learning*, December 2018.
+- "Measuring Sample Path Causal Influences with Relative Entropy", *Under Review*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
-- "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
+- "A Sample Path Measure of Causal Influence," *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)
 
@@ -29,11 +29,11 @@ We consider the class of problems where the underlying signal is non-Markov and/
 
 *Relevant Publications:*
 - “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
+Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
 [[arXiv]](https://arxiv.org/abs/1706.04685)
 [[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
-- “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016.
+- “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” *IEEE Statistical Signal Processing Workshop*, June 2016.
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
 -----

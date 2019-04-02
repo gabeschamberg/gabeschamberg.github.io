@@ -13,48 +13,45 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
-G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators", *Under Review*.
-[[arXiv]](https://arxiv.org/abs/1902.00580)
-
-G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy", *Under Review*.
+G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *Under Review*.
 [[arXiv]](https://arxiv.org/abs/1810.05250)
 
-A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording”, *Under Review*.
+A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *Under Review*.
 
-G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences", *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home)
+G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019 (To Appear).*.
+[[arXiv]](https://arxiv.org/abs/1902.00580)
 
-G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence", *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
+G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home)
+
+G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence," *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)
 
 G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation”, *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
+Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
 [[arXiv]](https://arxiv.org/abs/1706.04685)
 [[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
 
-G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM”, *IEEE Statistical Signal Processing Workshop*, June 2016.
+G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” *IEEE Statistical Signal Processing Workshop*, June 2016.
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
-
-<!---
 
 -----
 
-### Presentations
-NSRL, MIT, *2019* \\
-ISS, Harvard, *2019* \\
-Information Theory and Applications (ITA) Workshop, *2019* \\
-IEEE International Symposium on Information Theory (ISIT), *2018* \\
-CRISP Lab, Harvard, *2017*
+### Talks
+NSRL Seminar, MIT, *March 2019* \\
+ISS Seminar, Harvard, *March 2019* \\
+Information Theory and Applications (ITA) Workshop, *February 2019* \\
+IEEE International Symposium on Information Theory (ISIT), *July 2018* \\
+CRISP Lab, Harvard, *December 2017*
 
 -----
 
 ### Posters
-Information Theory and Applications (ITA) Workshop, *2019* \\
-NeurIPS Workshop on Causal Learning, *2018* \\
-IEEE Statistical Signal Processing Workshop, *2016*
+Information Theory and Applications (ITA) Workshop, *February 2019* \\
+NeurIPS Workshop on Causal Learning, *December 2018* \\
+IEEE Statistical Signal Processing Workshop, *June 2016*
 
--->
 
 -----
 
@@ -94,7 +91,8 @@ Jacobs Fellow, *2014-2017*
 
 ### Involvement
 
-Reviewer - Knowledge Based Systems, *2017* \\
+Reviewer - IEEE Transactions on Information Theory, *2019* \\
+Reviewer - Knowledge Based Systems, *2017, 2019* \\
 Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 
 -----
