@@ -102,7 +102,5 @@ Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 Python \\
 Matlab \\
 Arduino \\
-R \\
 Java \\
-C++ \\
-C
+C++
