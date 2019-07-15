@@ -39,6 +39,7 @@ G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectro
 -----
 
 ### Talks
+IEEE International Symposium on Information Theory (ISIT), *July 2019* \\
 NSRL Seminar, MIT, *March 2019* \\
 ISS Seminar, Harvard, *March 2019* \\
 Information Theory and Applications (ITA) Workshop, *February 2019* \\
@@ -48,6 +49,7 @@ CRISP Lab, Harvard, *December 2017*
 -----
 
 ### Posters
+IEEE North American School of Information Theory (NASIT), *July 2019* \\
 Information Theory and Applications (ITA) Workshop, *February 2019* \\
 NeurIPS Workshop on Causal Learning, *December 2018* \\
 IEEE Statistical Signal Processing Workshop, *June 2016*
