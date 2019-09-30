@@ -19,7 +19,7 @@ G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Re
 A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *Under Review*.
 
 G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
-[[arXiv]](https://arxiv.org/abs/1902.00580)
+[[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
 
 G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home) [[pdf]]({{ site.url }}/assets/papers/2018neurips.pdf)
 
