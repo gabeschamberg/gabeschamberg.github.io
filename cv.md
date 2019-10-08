@@ -13,10 +13,10 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
-G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *Under Review*.
-[[arXiv]](https://arxiv.org/abs/1810.05250)
+G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, In Press.
+[[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
 
-A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *Under Review*.
+A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *PLOS ONE*, In Press.
 
 G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
 [[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
