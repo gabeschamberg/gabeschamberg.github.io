@@ -5,7 +5,7 @@ title: CV
 
 ### Education
 
-Ph.D. ECE, UC San Diego, *2016-Present* \\
+Ph.D. ECE, UC San Diego, *2016-2019* \\
 M.S. ECE, UC San Diego, *2014-2016* \\
 B.S. CSE, UC San Diego, *2008-2012*
 
@@ -59,16 +59,22 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 ### Research Positions
 
-[Neural Interaction Lab](http://coleman.ucsd.edu/), *2014-Present* \\
+[Neuroscience Statistics Research Laboratory](http://www.neurostat.mit.edu/), *2019-Present* \\
+[Neural Interaction Lab](http://coleman.ucsd.edu/), *2014-2019* \\
 [San Diego Supercomputer Center](http://www.sdsc.edu/), *2012*
+
+-----
+
+### Teaching Experience
+
+Lecturer ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)) - UC San Diego, *2018* \\
+Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016* \\
 
 -----
 
 ### Work Experience
 
-Lecturer ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)) - UC San Diego, *2018* \\
 Analytics Research Intern - [CoreLogic](http://www.corelogic.com/products/loansafe-fraud-manager.aspx), *2017* \\
-Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016* \\
 Software Developer (Contractor) - [Ziva Corporation](http://www.ziva-corp.com/), *2014* \\
 Software Developer - [NKI Engineering](http://nkiconsulting.com/), *2012-2014* \\
 Software Developer (Part-time) - [Teradata](http://www.teradata.com/), *2011*
@@ -85,6 +91,7 @@ President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
 ### Grants and Awards
 
+Picower Fellow, *2019* //
 Kavli Institute for Brain & Mind, Innovative Research Grant Award Recipient, *2018* \\
 NSF Graduate Research Fellowship Program, Honorable Mention, *2016* \\
 Jacobs Fellow, *2014-2017*
@@ -93,8 +100,9 @@ Jacobs Fellow, *2014-2017*
 
 ### Involvement
 
+Guest Editor - Entropy Special Issue: "Information Flow in Neural Systems", *2019* \\
 Reviewer - IEEE Transactions on Information Theory, *2019* \\
-Reviewer - Knowledge Based Systems, *2017, 2019* \\
+Reviewer - Knowledge Based Systems, *2017*, *2019* \\
 Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 
 -----
