@@ -68,7 +68,7 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 ### Teaching Experience
 
 Lecturer ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)) - UC San Diego, *2018* \\
-Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016* \\
+Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016*
 
 -----
 
@@ -91,7 +91,7 @@ President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
 ### Grants and Awards
 
-Picower Fellow, *2019* //
+Picower Fellow, *2019* \\
 Kavli Institute for Brain & Mind, Innovative Research Grant Award Recipient, *2018* \\
 NSF Graduate Research Fellowship Program, Honorable Mention, *2016* \\
 Jacobs Fellow, *2014-2017*
