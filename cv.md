@@ -91,7 +91,7 @@ Software Developer - [NKI Engineering](http://nkiconsulting.com/), *2012-2014* \
 Software Developer (Part-time) - [Teradata](http://www.teradata.com/), *2011*
 
 -----
-
+<!---
 ### Leadership Development and Experience
 
 Mentor - Jacobs Undergraduate Mentoring Program (JUMP), *2017-2018* \\
@@ -99,7 +99,7 @@ Gordon Scholar - Gordon Center for Engineering Leadership, *2008-Present* \\
 President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 
 -----
-
+--->
 ### Grants and Awards
 
 Picower Fellow, *2019* \\
