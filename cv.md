@@ -13,12 +13,22 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
+#### Journal
+
 G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," *Under Review*, [[arXiv]](https://arxiv.org/abs/1912.10508)
 
 G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, In Press.
 [[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
 
 A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *PLOS ONE*, Volume 14, Issue 10, October 2019. [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220315&type=printable)
+
+G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
+Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
+[[arXiv]](https://arxiv.org/abs/1706.04685)
+[[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
+
+#### Conference
 
 G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
 [[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
@@ -29,14 +39,12 @@ G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence," *IE
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)
 
-G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
-Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
-[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
-[[arXiv]](https://arxiv.org/abs/1706.04685)
-[[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
-
 G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” *IEEE Statistical Signal Processing Workshop*, June 2016.
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
+
+#### Thesis
+
+"Information Theoretic Measures and Estimators of Specific Causal Influences," University of California, San Diego, August 2019.
 
 -----
 
@@ -49,7 +57,7 @@ IEEE International Symposium on Information Theory (ISIT), *July 2018* \\
 CRISP Lab, Harvard, *December 2017*
 
 -----
-
+<!---
 ### Posters
 IEEE North American School of Information Theory (NASIT), *July 2019* \\
 Information Theory and Applications (ITA) Workshop, *February 2019* \\
@@ -58,7 +66,7 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 
 -----
-
+--->
 ### Research Positions
 
 [Neuroscience Statistics Research Laboratory](http://www.neurostat.mit.edu/), *2019-Present* \\
@@ -69,8 +77,9 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 ### Teaching Experience
 
-Lecturer ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)) - UC San Diego, *2018* \\
-Lecturer (ENG 1/2/3) - UC San Diego, *2015-2016*
+Co-Instructor - MIT, 9.272, *2020* \\
+Lecturer - UC San Diego, ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)), *2018* \\
+Lecturer - UC San Diego, (ENG 1/2/3), *2015-2016*
 
 -----
 
@@ -103,16 +112,9 @@ Jacobs Fellow, *2014-2017*
 ### Involvement
 
 Guest Editor - Entropy Special Issue: "Information Flow in Neural Systems", *2019* \\
+Reviewer - IEEE Transactions on Signal Processing, *2019* \\
 Reviewer - IEEE Transactions on Information Theory, *2019* \\
 Reviewer - Knowledge Based Systems, *2017*, *2019* \\
 Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
 
 -----
-
-### Technical Experience
-
-Python \\
-Matlab \\
-Arduino \\
-Java \\
-C++
