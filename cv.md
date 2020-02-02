@@ -77,7 +77,7 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 ### Teaching Experience
 
-Co-Instructor - MIT, 9.272, *2020* \\
+Teaching Assistant - MIT, 9.272, *2020* \\
 Lecturer - UC San Diego, ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)), *2018* \\
 Lecturer - UC San Diego, (ENG 1/2/3), *2015-2016*
 
