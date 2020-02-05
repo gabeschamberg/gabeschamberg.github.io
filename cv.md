@@ -111,8 +111,10 @@ Jacobs Fellow, *2014-2017*
 
 ### Involvement
 
-Guest Editor - Entropy Special Issue: "Information Flow in Neural Systems", *2019* \\
-Reviewer - IEEE Transactions on Signal Processing, *2019* \\
+
+Guest Editor - Entropy Special Issue: "Information Flow in Neural Systems", *2020* \\
+Reviewer - IEEE Transactions on Signal Processing, *2019*, *2020* \\
+Reviewer - IEEE International Symposium on Information Theory, *2020* \\
 Reviewer - IEEE Transactions on Information Theory, *2019* \\
 Reviewer - Knowledge Based Systems, *2017*, *2019* \\
 Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
