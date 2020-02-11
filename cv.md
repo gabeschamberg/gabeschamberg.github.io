@@ -80,7 +80,7 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 Co-Instructor - Topics in Neural Signal Processing (9.272), MIT, *2020* \\
 Instructor - Fundamentals of Engineering Applications ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)/[IDEA Summer Institute](http://jacobsschool.ucsd.edu/idea/programs/freshman_summer_institute.shtml)), UC San Diego, *2018* \\
-Instructor - Introduction to Engineering I/II/III (ENG 1/2/3, now ENG 10) UC San Diego, *2015-2016*
+Instructor - Introduction to Engineering I/II/III (ENG 1/2/3) UC San Diego, *2015-2016*
 
 -----
 
