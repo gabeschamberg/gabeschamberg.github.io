@@ -49,6 +49,7 @@ G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectro
 -----
 
 ### Talks
+
 IEEE International Symposium on Information Theory (ISIT), *July 2019* \\
 NSRL Seminar, MIT, *March 2019* \\
 ISS Seminar, Harvard, *March 2019* \\
@@ -77,9 +78,9 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 ### Teaching Experience
 
-Teaching Assistant - MIT, 9.272, *2020* \\
-Lecturer - UC San Diego, ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)), *2018* \\
-Lecturer - UC San Diego, (ENG 1/2/3), *2015-2016*
+Co-Instructor - Topics in Neural Signal Processing (9.272), MIT, *2020* \\
+Instructor - Fundamentals of Engineering Applications ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)/[IDEA Summer Institute](http://jacobsschool.ucsd.edu/idea/programs/freshman_summer_institute.shtml)), UC San Diego, *2018* \\
+Instructor - Introduction to Engineering I/II/III (ENG 1/2/3, now ENG 10) UC San Diego, *2015-2016*
 
 -----
 
@@ -105,18 +106,18 @@ President/Captain - UCSD Ski & Snowboard Team, *2010-2012*
 Picower Fellow, *2019* \\
 Kavli Institute for Brain & Mind, Innovative Research Grant Award Recipient, *2018* \\
 NSF Graduate Research Fellowship Program, Honorable Mention, *2016* \\
-Jacobs Fellow, *2014-2017*
+Jacobs Fellow, *2014-2017* \\
+Gordon Center for Engineering Leadership, Gordon Scholar, *2008*
 
 -----
 
 ### Involvement
 
-
 Guest Editor - Entropy Special Issue: "Information Flow in Neural Systems", *2020* \\
 Reviewer - IEEE Transactions on Signal Processing, *2019*, *2020* \\
 Reviewer - IEEE International Symposium on Information Theory, *2020* \\
 Reviewer - IEEE Transactions on Information Theory, *2019* \\
-Reviewer - Knowledge Based Systems, *2017*, *2019* \\
-Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*
+Reviewer - Knowledge Based Systems, *2017*, *2019* 
+<!--Session Co-Chair - Information Theory and Applications (ITA) Workshop, *2017*-->
 
 -----
