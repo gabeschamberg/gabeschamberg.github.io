@@ -13,9 +13,11 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 ### Publications
 
-#### Journal
+#### Under Review
 
 G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," *Under Review*, [[arXiv]](https://arxiv.org/abs/1912.10508)
+
+#### Journal
 
 G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, In Press.
 [[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
