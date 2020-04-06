@@ -15,7 +15,7 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 #### Under Review
 
-G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," *Under Review*, [[arXiv]](https://arxiv.org/abs/1912.10508)
+G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
 
 #### Journal
 
