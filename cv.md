@@ -19,7 +19,7 @@ G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Eff
 
 #### Journal
 
-G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, In Press.
+G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, Volume 66, Issue 5, May 2020.
 [[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
 
 A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *PLOS ONE*, Volume 14, Issue 10, October 2019. [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220315&type=printable)
@@ -78,7 +78,7 @@ IEEE Statistical Signal Processing Workshop, *June 2016*
 
 -----
 
-### Teaching Experience
+### Teaching
 
 Co-Instructor - Topics in Neural Signal Processing (9.272), MIT, *2020* \\
 Instructor - Fundamentals of Engineering Applications ([ENG 10](http://jacobsschool.ucsd.edu/idea/eng10/index.html)/[IDEA Summer Institute](http://jacobsschool.ucsd.edu/idea/programs/freshman_summer_institute.shtml)), UC San Diego, *2018* \\
