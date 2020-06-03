@@ -65,6 +65,8 @@ Information Theory and Applications (ITA) Workshop, *February 2019* \\
 IEEE International Symposium on Information Theory (ISIT), *July 2018* \\
 CRISP Lab, Harvard, *December 2017*
 
+<sub>* = equal contribution</sub>
+
 -----
 <!---
 ### Posters
