@@ -54,6 +54,8 @@ G Schamberg, M Wagner, D Ba, and TP Coleman, “Efficient Low-Rank Spectrotempor
 
 "Information Theoretic Measures and Estimators of Specific Causal Influences," University of California, San Diego, August 2019.
 
+<sub>* = equal contribution</sub>
+
 -----
 
 ### Talks
@@ -64,8 +66,6 @@ ISS Seminar, Harvard, *March 2019* \\
 Information Theory and Applications (ITA) Workshop, *February 2019* \\
 IEEE International Symposium on Information Theory (ISIT), *July 2018* \\
 CRISP Lab, Harvard, *December 2017*
-
-<sub>* = equal contribution</sub>
 
 -----
 <!---
