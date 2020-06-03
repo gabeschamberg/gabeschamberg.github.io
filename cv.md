@@ -5,26 +5,32 @@ title: CV
 
 ### Education
 
-Ph.D. ECE, UC San Diego, *2016-2019* \\
-M.S. ECE, UC San Diego, *2014-2016* \\
+Ph.D ECE, UC San Diego, *2016-2019* \\
+MS. ECE, UC San Diego, *2014-2016* \\
 B.S. CSE, UC San Diego, *2008-2012*
 
 -----
 
 ### Publications
 
-#### Under Review
+#### Submitted
 
-G. Schamberg, W. Chapman, S.-P. Xie, and T. P. Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
+G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
+
+G Schamberg*, MA Badgeley*, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning"
+
+JH Abel*, MA Badgeley*, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
+
+A Shanker, JH Abel, P Mathur, E Work, G Schamberg, A Sharkey, R Bose, V Rangasamy, V. Senthilnathan, EN Brown, and B Subramaniam, “Perioperative Multimodal General Anesthesia Focusing on Specific CNS Targets in Patients Undergoing Cardiac Surgeries: The PATHFINDER Study”
 
 #### Journal
 
-G. Schamberg and T. P. Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, Volume 66, Issue 5, May 2020.
+G Schamberg and TP Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, Volume 66, Issue 5, May 2020.
 [[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
 
-A. Allegra, A. Gharibans, G. Schamberg, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *PLOS ONE*, Volume 14, Issue 10, October 2019. [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220315&type=printable)
+A Allegra, A Gharibans, G Schamberg, D Kunkel, and TP Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” *PLOS ONE*, Volume 14, Issue 10, October 2019. [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220315&type=printable)
 
-G. Schamberg, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for
+G Schamberg, D Ba, and TP Coleman, “A Modularized Efficient Framework for
 Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, Volume 66, Issue 12, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8259364/)
 [[arXiv]](https://arxiv.org/abs/1706.04685)
@@ -32,16 +38,16 @@ Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, 
 
 #### Conference
 
-G. Schamberg and T. P. Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
+G Schamberg and TP Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
 [[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
 
-G. Schamberg and T. P. Coleman, "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home) [[pdf]]({{ site.url }}/assets/papers/2018neurips.pdf)
+G Schamberg and TP Coleman, "Quantifying Context-Dependent Causal Influences," *NeurIPS Workshop On Causal Learning*, December 2018. [[workshop]](https://sites.google.com/view/nips2018causallearning/home) [[pdf]]({{ site.url }}/assets/papers/2018neurips.pdf)
 
-G. Schamberg and T. P. Coleman, "A Sample Path Measure of Causal Influence," *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
+G Schamberg and TP Coleman, "A Sample Path Measure of Causal Influence," *IEEE International Symposium on Information Theory (ISIT)*, June 2018.
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8437627/)
 [[arXiv]](https://arxiv.org/abs/1805.03333)
 
-G. Schamberg, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” *IEEE Statistical Signal Processing Workshop*, June 2016.
+G Schamberg, M Wagner, D Ba, and TP Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” *IEEE Statistical Signal Processing Workshop*, June 2016.
 [[IEEE Xplore]](http://ieeexplore.ieee.org/document/7551797/)
 
 #### Thesis
