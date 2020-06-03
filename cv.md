@@ -17,9 +17,9 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
 
-G Schamberg*, MA Badgeley*, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning"
+G Schamberg<sup>\*</sup>, MA Badgeley<sup>\*</sup>, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning"
 
-JH Abel*, MA Badgeley*, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
+JH Abel<sup>\*</sup>, MA Badgeley<sup>\*</sup>, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
 
 A Shanker, JH Abel, P Mathur, E Work, G Schamberg, A Sharkey, R Bose, V Rangasamy, V. Senthilnathan, EN Brown, and B Subramaniam, “Perioperative Multimodal General Anesthesia Focusing on Specific CNS Targets in Patients Undergoing Cardiac Surgeries: The PATHFINDER Study”
 
