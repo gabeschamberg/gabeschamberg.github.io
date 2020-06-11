@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Gabe Schamberg
 url:                 http://gabeschamberg.github.io
 paginate:            1
-baseurl:             ""
+#baseurl:             ""
 
 # Assets
 #
