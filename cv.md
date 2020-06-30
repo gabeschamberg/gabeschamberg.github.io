@@ -17,8 +17,6 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
 
-G Schamberg<sup>\*</sup>, MA Badgeley<sup>\*</sup>, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning"
-
 JH Abel<sup>\*</sup>, MA Badgeley<sup>\*</sup>, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
 
 A Shanker, JH Abel, P Mathur, E Work, G Schamberg, A Sharkey, R Bose, V Rangasamy, V. Senthilnathan, EN Brown, and B Subramaniam, “Perioperative Multimodal General Anesthesia Focusing on Specific CNS Targets in Patients Undergoing Cardiac Surgeries: The PATHFINDER Study”
@@ -37,6 +35,8 @@ Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, 
 [[Code Ocean]](https://codeocean.com/2018/01/16/a-modularized-efficient-framework-for-non-markov-time-series-estimation/)
 
 #### Conference
+
+G Schamberg<sup>\*</sup>, MA Badgeley<sup>\*</sup>, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning," *International Conference on Artifical Intelligence in Medicine (AIME)*, August 2020 (To Appear).
 
 G Schamberg and TP Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
 [[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
