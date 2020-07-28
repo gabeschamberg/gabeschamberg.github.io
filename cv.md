@@ -15,7 +15,9 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 #### Submitted
 
-G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," [[arXiv]](https://arxiv.org/abs/1912.10508)
+G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," 
+[[arXiv]](https://arxiv.org/abs/1912.10508)
+[[Code Ocean]](https://doi.org/10.24433/CO.5484914.v1)
 
 JH Abel<sup>\*</sup>, MA Badgeley<sup>\*</sup>, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
 
