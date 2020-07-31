@@ -15,15 +15,16 @@ B.S. CSE, UC San Diego, *2008-2012*
 
 #### Submitted
 
-G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," 
-[[arXiv]](https://arxiv.org/abs/1912.10508)
-[[Code Ocean]](https://doi.org/10.24433/CO.5484914.v1)
-
 JH Abel<sup>\*</sup>, MA Badgeley<sup>\*</sup>, B Meschede-Krasa, G Schamberg, IC Garwood, K Lecamwasam, S Chakravarty, DW Zhou, M Keating, PL Purdon, and EN Brown, "Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia"
 
 A Shanker, JH Abel, P Mathur, E Work, G Schamberg, A Sharkey, R Bose, V Rangasamy, V. Senthilnathan, EN Brown, and B Subramaniam, “Perioperative Multimodal General Anesthesia Focusing on Specific CNS Targets in Patients Undergoing Cardiac Surgeries: The PATHFINDER Study”
 
 #### Journal
+
+G Schamberg, W Chapman, S-P Xie, and TP Coleman, "Direct and Indirect Effects -- An Information Theoretic Perspective," *Entropy*, Volume 22, Issue 8, July 2020.
+[[Entropy]](https://www.mdpi.com/1099-4300/22/8/854)
+[[arXiv]](https://arxiv.org/abs/1912.10508)
+[[Code Ocean]](https://doi.org/10.24433/CO.5484914.v1)
 
 G Schamberg and TP Coleman, "Measuring Sample Path Causal Influences with Relative Entropy," *IEEE Transactions on Information Theory*, Volume 66, Issue 5, May 2020.
 [[arXiv]](https://arxiv.org/abs/1810.05250)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856271)[[Code Ocean]](https://codeocean.com/capsule/8353473/tree/v1)
