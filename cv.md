@@ -39,7 +39,7 @@ Non-Markov Time Series Estimation,” *IEEE Transactions on Signal Processing*, 
 
 #### Conference
 
-G Schamberg<sup>\*</sup>, MA Badgeley<sup>\*</sup>, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning," *International Conference on Artifical Intelligence in Medicine (AIME)*, August 2020 (To Appear).
+G Schamberg<sup>\*</sup>, MA Badgeley<sup>\*</sup>, EN Brown, "Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning," *International Conference on Artifical Intelligence in Medicine (AIME)*, August 2020 (*Best Paper Award*).
 
 G Schamberg and TP Coleman, "On the Bias of Directed Information Estimators," *IEEE International Symposium on Information Theory (ISIT)*, July 2019.
 [[arXiv]](https://arxiv.org/abs/1902.00580)[[IEEE Xplore]](https://ieeexplore.ieee.org/document/8849531/)
