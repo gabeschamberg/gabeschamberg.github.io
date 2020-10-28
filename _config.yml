@@ -25,8 +25,9 @@ version:             2.0.0
 github:              gabeschamberg
 
 pages_list:
-  CV: '/cv'
-  #Research: '/research'
+  Research: '/research'
+  Teaching: '/teaching'
+  CV: '/assets/cv/GS-cv.pdf'
   #Blog: '/blog'
 
 # Gems

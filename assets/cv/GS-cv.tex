@@ -1,0 +1,442 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[a4paper, 11pt]{article}
+% Seems like it does not support 9pt and less. Anyways we should stick to 10pt.
+%\documentclass[a4paper, 9pt]{article}
+\topmargin-2.0cm
+\usepackage{pagecounting}
+\usepackage{latexsym}
+%\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+
+%----------FONT OPTIONS----------
+
+% Adjust margins
+%\addtolength{\oddsidemargin}{0.5in}
+%\addtolength{\evensidemargin}{-0.5in}
+%\addtolength{\textwidth}{1in}
+%\addtolength{\topmargin}{-.8in}
+%\addtolength{\textheight}{1.0in}
+
+
+\advance\oddsidemargin-0.95in
+%\advance\evensidemargin-1.5cm
+\textheight10in
+\textwidth6.75in
+\newcommand\bb[1]{\mbox{\em #1}}
+\def\baselinestretch{1.05}
+%\pagestyle{empty}
+
+
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{1pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[3]{
+  \vspace{-1pt}\item
+    \textbf{#1} \hfill #2 \\
+    \textit{#3} \\
+  \vspace{-2pt}
+}
+
+\newcommand{\resumeTalk}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      #1 & #2 \\
+    \end{tabular*}\vspace{-20pt}
+}
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{#1} & \textit{#2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeTalkListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeTalkListEnd}{\end{itemize}\vspace{7pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\thispagestyle{fancy}
+\cfoot{}
+%\pagenumbering{gobble}
+%\fancyhead[location]{text}
+% Leave Left and Right Header empty.
+\lhead{}
+\rhead{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\pagestyle{fancy}
+\rhead{\thepage/\totalpages{}}
+%\lhead{\textit{Curriculum Vitae}}
+%\renewcommand{\headrulewidth}{0pt}
+%\renewcommand{\footrulewidth}{0pt}
+%\fancyfoot[C]{\footnotesize http://www.stanford.edu/$\sim$sundaes/application}
+%\ref{TotPages}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+{\bf{\LARGE Gabriel Schamberg} \\
+gabes@mit.edu}
+\end{center}
+
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {PhD Electrical Engineering}{August 2019}
+      {Electrical and Computer Engineering Department, University of California, San Diego (UCSD)}
+    \resumeSubheading
+      {MS Electrical Engineering}{June 2016}
+      {Electrical and Computer Engineering Department, UCSD}
+    \resumeSubheading
+      {BS Computer Engineering}{June 2012}
+      {Computer Science and Engineering Department, UCSD}
+  \resumeSubHeadingListEnd
+
+
+%-----------Research-----------
+\section{Research}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Postdoctoral Fellow}{October 2019 -- Present}
+      {Picower Institute for Learning and Memory, Neuroscience Statistics Research, MIT}
+      \resumeItemListStart
+            \resumeItem{built statistical state-space models for tracking a subject's level of unconsciousness from  human electroencephalogram recordings}
+            \resumeItem{developed a reinforcement learning paradigm for automatic titration of anesthetic drugs during anesthesia}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Graduate Student Researcher}{December 2014 -- August 2019}
+      {Neural Interaction Lab, UCSD}
+      \resumeItemListStart
+            \resumeItem{proposed novel approaches for measuring and estimating causal influence using information theory}
+            \resumeItem{created a novel framework for estimating latent time series with non-Markov priors}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Undergraduate Student Researcher}{January 2012 -- June 2012}
+      {San Diego Supercomputer Center, UCSD}
+      \resumeItemListStart
+            \resumeItem{assisted in data collection for design of the ``10$\times$10 processor'' by running performance benchmarks on an array of different GPUs}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------Teaching-----------
+\section{Teaching}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Co-Instructor, Statistics for Neuroscience Research (9.073)}{Spring 2021 \textit{(In preparation)}}
+      {Brain and Cognitive Science Department, MIT}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} graduate-level; 3 hrs/week; 13 weeks}
+            \resumeItem{{\bf Roles:} preparing/delivering lectures (50\%); creating HW}
+            \resumeItem{{\bf Topics:} random variables; estimation; statistical testing; spectral analysis; state-space modeling}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Co-Instructor, Topics in Neural Signal Processing (9.272)}{Spring 2020}
+      {Brain and Cognitive Science Department, MIT}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} 19 students (12 enrolled/7 listeners); graduate-level seminar series; 3 hrs/week; 13 weeks}
+            \resumeItem{{\bf Roles:} inviting/organizing guest lectures; advising final projects}
+            \resumeItem{{\bf Topics:} statistical modeling; physiologic control; neural imaging; Granger causality}
+     \resumeItemListEnd
+
+    \resumeSubheading
+      {Instructor, Fundamentals of Engineering Applications (ENG 10)}{Summer 2018}
+      {Jacobs School of Engineering, UCSD}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} 30 students; undergraduate-level; 6 hrs/week; 5 weeks}
+            \resumeItem{{\bf Roles:} developing curriculum; preparing/delivering lectures; creating labs; advising projects}
+            \resumeItem{{\bf Topics:} engineering math fundamentals; Python programming; Arduino-based project; 3D printing}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Instructor, Introduction to Engineering III (ENG 3)}{Spring 2016}
+      {Jacobs School of Engineering, UCSD}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} 7 students; undergraduate-level, 2 hrs/week; 10 weeks}
+            \resumeItem{{\bf Roles:} developing curriculum; preparing/delivering lectures; creating HW/labs/quizzes}
+            \resumeItem{{\bf Topics:} engineering design process; design challenges; Arduino programming}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Instructor, Introduction to Engineering II (ENG 2)}{Winter 2015}
+      {Jacobs School of Engineering, UCSD}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} 18 students; undergraduate-level, 2 hrs/week; 10 weeks}
+            \resumeItem{{\bf Roles:} developing curriculum; preparing/delivering lectures; creating HW/labs/quizzes}
+            \resumeItem{{\bf Topics:} mathematical programming with Python; multivariable calculus; differential equations}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Instructor, Introduction to Engineering I (ENG 1)}{Fall 2015}
+      {Jacobs School of Engineering, UCSD}
+      \resumeItemListStart
+            \resumeItem{{\bf Details:} 31 students; undergraduate-level, 2 hrs/week; 10 weeks}
+            \resumeItem{{\bf Roles:} developing curriculum; preparing/delivering lectures; creating HW/labs/quizzes}
+            \resumeItem{{\bf Topics:} mathematical programming with Python; trigonometry; calculus}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------Industry-----------
+\section{Industry Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Analytics Research Intern}{June 2017 -- September 2017}
+      {CoreLogic}
+      \resumeItemListStart
+            \resumeItem{built a convolutional neural network for identifying homes with solar panels from satellite images}
+            \resumeItem{conducted detailed performance analyses and visualizations of mortgage fraud detection model}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Developer}{May 2014 -- July 2014}
+      {Ziva Corporation}
+      \resumeItemListStart
+            \resumeItem{wrote automated start-up and failure check routines for software defined radios}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Developer}{October 2012 -- April 2014}
+      {NKI Engineering}
+      \resumeItemListStart
+            \resumeItem{developed software for testing conformance of encryption routers}
+            \resumeItem{designed a software defined radio system for simultaneously monitoring and recording multiple channels with a single receiver}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Developer (Part-time)}{June 2011 -- December 2011}
+      {Teradata}
+      \resumeItemListStart
+            \resumeItem{created automated tests for database management software}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PUBLICATIONS-----------
+\section{Publications}
+    \resumeSubHeadingListStart
+      %\resumeProjectHeading
+      %    {\textbf{In Preparation}}{}
+      %    \resumeItemListStart
+      %      \resumeItem{A. Shanker, J. H. Abel, {\bf G. Schamberg}, and E. N. Brown, “Etiologies of Burst Suppression.”}
+      %      \resumeItem{P. Riviere, {\bf G. Schamberg}, T. P. Coleman and L. Rangel, “Quantifying the Effect of Local Field Potential Phase on Spiking Probability.”}
+      %    \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{In Review}}{}
+          \resumeItemListStart
+            \resumeItem{J. H. Abel*, M. A. Badgeley*, B. Meschede-Krasa, {\bf G. Schamberg}, I. C. Garwood, K. Lecamwasam, S. Chakravarty, D. W. Zhou, M. Keating, P. L. Purdon, and E. N. Brown, “Machine Learning of EEG Spectra Classifies Unconscious States During Propofol-Induced Anesthesia.”}
+            \resumeItem{A. Shanker, J. H. Abel, P. Mathur, E. Work, {\bf G. Schamberg}, A. Sharkey, R. Bose, V. Rangasamy, V. Senthilnathan, E. N. Brown, and B. Subramaniam, “Perioperative Multimodal General Anesthesia Focusing on Specific CNS Targets in Patients Undergoing Cardiac Surgeries: The PATHFINDER Study.”}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Journal Publications}}{}
+          \resumeItemListStart
+            \resumeItem{{\bf G. Schamberg}, W. Chapman, S. Xie, and T. P. Coleman, “Direct and Indirect Effects: An Information Theoretic Approach,” \textit{Entropy}, Volume 22, Issue 8, August 2020}
+            \resumeItem{{\bf G. Schamberg} and T. P. Coleman, “Measuring Sample Path Causal Influences with Relative Entropy,” \textit{IEEE Transactions on Information Theory}, Volume 66, Issue 5, October 2019}
+            \resumeItem{A. Allegra, A. Gharibans, {\bf G. Schamberg}, D. Kunkel, and T. P. Coleman, “Bayesian Inverse Methods for Spatiotemporal Characterization of Gastric Electrical Activity from Cutaneous Multi-Electrode Recording,” \textit{PLoS One}, Volume 14, Issue 10, October 2019}
+            \resumeItem{{\bf G. Schamberg}, D. Ba, and T. P. Coleman, “A Modularized Efficient Framework for Non-Markov Time Series Estimation,” \textit{IEEE Transactions on Signal Processing}, Volume 66, Issue 12, June 2018. }
+          \resumeItemListEnd
+       \resumeProjectHeading
+          {\textbf{Conference Proceedings}}{}
+          \resumeItemListStart
+            \resumeItem{{\bf G. Schamberg}*, S. Chakravarty*, T. Baum, and E. N. Brown, “Inferring neural dynamics during burst-suppression using a neurophysiology-inspired switching state-space model,” \textit{IEEE Asilomar Conference on Signals, Systems, and Computers}, November 2020 (To appear).}
+            \resumeItem{W. De Faria, {\bf G. Schamberg}, and E. N. Brown, “Classifying EEG of Propofol-Induced Unconsciousness in the Presence of Burst Suppression,” \textit{IEEE MIT Undergraduate Research Technology Conference}, October 2020.}
+            \resumeItem{{\bf G. Schamberg}*, M. A. Badgeley*, and E. N. Brown, “Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning,” \textit{International Conference on Artificial Intelligence in Medicine}, August 2020 {\bf(Best Paper Award)}.}
+            \resumeItem{{\bf G. Schamberg} and T. P. Coleman, “On the Bias of Directed Information Estimators,” \textit{IEEE International Symposium on Information Theory}, July 2019.}
+            \resumeItem{{\bf G. Schamberg} and T. P. Coleman, “Quantifying Context-Dependent Causal Influences,” \textit{NeurIPS Workshop on Causal Learning}, December 2018.}
+            \resumeItem{{\bf G. Schamberg} and T. P. Coleman, “A Sample Path Measure of Causal Influence,” \textit{IEEE International Symposium on Information Theory}, June 2018. }
+            \resumeItem{{\bf G. Schamberg}, M. Wagner, D. Ba, and T. P. Coleman, “Efficient Low-Rank Spectrotemporal Decomposition using ADMM,” \textit{IEEE Statistical Signal Processing Workshop}, June 2016. }
+          \resumeItemListEnd
+        \resumeProjectHeading
+          {\textbf{Thesis}}{}
+          \resumeItemListStart
+            \resumeItem{“Information Theoretic Measures and Estimators of Specific Causal Influences,” \textit{University of California, San Diego}, August 2019.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+%-----------INVITED TALKS-----------
+\section{Invited Talks}
+  \resumeTalkListStart
+    \resumeTalk
+      {Royal College of Anaesthetists Winter Symposium}{December 2020}
+    \resumeTalk
+      {Information, Signals, and Systems Seminar, \textit{Harvard}}{March 2019}
+    \resumeTalk
+      {Neuroscience Statistics Research Laboratory Seminar, \textit{MIT}}{March 2019}
+    \resumeTalk
+      {CRISP Lab Seminar, \textit{Harvard}}{March 2017}
+  \resumeTalkListEnd
+
+%-----------CONFERENCE TALKS-----------
+\section{Conference Talks}
+  \resumeTalkListStart
+	\resumeTalk    
+		{IEEE Asilomar Conference on Signals, Systems, and Computers}{November 2020}
+	\resumeTalk
+		{International Conference on Artificial Intelligence in Medicine}{August 2020}
+	\resumeTalk
+		{IEEE International Symposium on Information Theory}{July 2019}
+	\resumeTalk
+		{Information Theory and Applications Workshop}{February 2019}
+	\resumeTalk
+		{IEEE International Symposium on Information Theory}{July 2018}
+\resumeTalkListEnd
+
+
+%-----------GRANTS AND AWARDS-----------
+\section{Grants and Awards}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Picower Postdoctoral Fellowship}{October 2019 -- Present}
+      {Picower Institute for Learning and Memory}{}
+      \resumeItemListStart
+            \resumeItem{{\bf Summary:} research proposal based award to support pursuit of an independent research agenda}
+            \resumeItem{{\bf Project:} developing control signals for closed loop anesthesia delivery systems}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Innovative Research Grant Award}{July 2018}
+      {Kavli Institute for Brain \& Mind}{}
+      \resumeItemListStart
+            \resumeItem{{\bf Summary:} \$50,000 awarded for proposed innovative research studying brain organization (with four co-investigators)}
+            \resumeItem{{\bf Project:} rhythmic coordination -- a mechanism for efficient processing of information from multiple sources}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Honorable Mention, Graduate Research Fellowship Program}{April 2015}
+      {National Science Foundation}{}
+      \resumeItemListStart
+            \resumeItem{{\bf Summary:} awarded to top $\sim$30\% of applicants}
+            \resumeItem{{\bf Project:} statistical phase estimation for quantifying neural mechanisms underlying cognition }
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Jacobs Fellowship}{September 2014 -- September 2017}
+      {Jacobs School of Engineering, UCSD}{}
+      \resumeItemListStart
+            \resumeItem{{\bf Summary:} three years of fully funded graduate studies awarded to top applicants among all engineering PhD programs}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Gordon Scholar}{September 2009}
+      {Gordon Center for Engineering Leadership, UCSD}{}
+      \resumeItemListStart
+            \resumeItem{{\bf Summary:} a program aimed to train engineering students to be leaders through symposiums, workshops, challenge projects, and additional required coursework}
+      \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+
+%-----------ACADEMIC INVOLVEMENT-----------
+\section{Academic Involvement}
+  \resumeTalkListStart
+\resumeTalk{Guest Editor, \textit{Entropy} Special Issue on “Information Flow in Neural Systems”}{November 2020}
+\resumeTalk{Reviewer, \textit{IEEE Transactions on Neural Networks and Learning Systems}}{October 2020}
+\resumeTalk{Reviewer, \textit{IEEE Transactions on Signal Processing}}{January, March 2020}
+\resumeTalk{Reviewer, \textit{IEEE International Symposium on Information Theory}}{February 2020}
+\resumeTalk{Reviewer, \textit{IEEE Transactions on Information Theory}}{December 2019}
+\resumeTalk{Reviewer, \textit{Knowledge Based Systems}}{December 2018, June 2019}
+\resumeTalk{Session Co-Chair, \textit{Information Theory and Applications Workshop}}{February 2017}
+  \resumeTalkListEnd
+
+
+\begin{comment}
+%-----------ADDITIONAL INVOLVEMENT-----------
+\section{Extracurricular Involvement}
+
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Co-Host, ``Very Spicy, Kind Of''}{April 2016 -- September 2016}
+      {KSDT Campus Radio, UCSD}{}
+      \resumeItemListStart
+            \resumeItem{1 hour weekly jazz and Latin jazz radio show}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {President/Captain}{November 2011 -- April 2012}
+      {UCSD Ski \& Snowboard Team}{}
+      \resumeItemListStart
+            \resumeItem{organized a team of 30 to compete in the Southern California Collegiate Snowsports Conference (SCCSC) and the US Collegiate Ski \& Snowboard Association (USCSA)}
+            \resumeItem{{\bf Awards:} SCCSC 1st place team overall; SCCSC captain of the year; USCSA 3rd place mens' snowboarding}
+      \resumeItemListEnd
+ 
+
+
+  \resumeSubHeadingListEnd
+\end{comment}
+
+\end{document}
