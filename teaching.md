@@ -3,8 +3,6 @@ layout: page
 title: Teaching
 ---
 
-Here are some of the classes that I have (co-)taught, am currently (co-)teaching, or look forward to (co-)teaching.
-
 -----
 
 ### Statistics for Neuroscience Research 
